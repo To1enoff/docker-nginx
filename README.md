@@ -18,4 +18,4 @@ When you click 'view recipe'
 ![image](https://github.com/user-attachments/assets/8e59831a-228c-49e0-9962-28d73ab27cfa)
 
 
-![image](https://github.com/user-attachments/assets/0b3ccfd2-42eb-4b77-b9f4-2139880e4dd2)
+![image](https://github.com/user-attachments/assets/c9f183ae-0983-4592-b4e3-82b45bc31246)
